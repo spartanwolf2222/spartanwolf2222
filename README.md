@@ -1,7 +1,7 @@
 # Olá, me chamo Diego ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-Tenho 24 anos, moro no estado de São Paulo, gosto muito de jogar video game no meu tempo livre e de programar.
+Tenho 24 anos, moro no estado de São Paulo, gosto muito de jogar video game no meu tempo livre.
 Sou iniciante nessa área, atualmente estou estudando na Alura para que um dia um possa me tornar um Dev profissional!!
 
 - Estou aprendendo:
